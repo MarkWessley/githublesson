@@ -2,9 +2,12 @@
 * text=auto
 
 <!DOCTYPE html>
+<html>
+<head><title>branced file</title></head>
 <header>Github lesson</header>
 <p>
 github demo file
 trying to edit file before putting back in master
 </p>
 <footer>insert footer here</footer>
+</html>
